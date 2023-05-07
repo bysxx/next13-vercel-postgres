@@ -22,9 +22,3 @@ yarn
 ```
 yarn dev
 ```
-
-## Example
-- [Dynamic Routes](https://github.com/bysxx/next-ts-template-tailwind/blob/master/app/example/%5Bid%5D/page.tsx)
-- [Client Component](https://github.com/bysxx/next-ts-template-tailwind/blob/master/app/example/components/client-component.tsx)
-- [Streaming](https://github.com/bysxx/next-ts-template-tailwind/blob/master/app/example/components/fetching-component.tsx)
-- Soon...

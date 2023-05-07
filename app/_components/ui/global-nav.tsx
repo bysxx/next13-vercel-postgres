@@ -7,7 +7,7 @@ function GlobalNav() {
       <div className="flex justify-start text-2xl">Logo</div>
       <div className="flex justify-end gap-x-2 text-blue-400">
         <Link href="/">Home</Link>
-        <Link href="/example">Example</Link>
+        <Link href="/forum">forum</Link>
         <a
           className="ml-2 flex items-center gap-x-1 text-black"
           href="https://github.com/bysxx/next-ts-template-tailwind"

@@ -32,7 +32,7 @@
     "incremental": true,
     "baseUrl": ".",
     "paths": {
-      "@api/*": ["app/_api/*"],
+      "@api/*": ["app/api/*"],
       "@hooks/*": ["app/_hooks/*"],
       "@interfaces/*": ["app/_interfaces/*"],
       "@libs/*": ["app/_libs/*"],
